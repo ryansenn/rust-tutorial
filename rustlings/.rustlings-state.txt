@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-errors5
+traits4
 
 intro1
 intro2
@@ -56,3 +56,8 @@ errors1
 errors2
 errors3
 errors4
+generics1
+generics2
+traits1
+traits2
+traits3
